@@ -80,6 +80,14 @@
     {
       "src": "Project_files/image-ec5f6c6d-47e4-4268-a719-58a001a0835d.png",
       "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-f81219cf-fae6-4be9-ab95-8dc59bca9c5e.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-f26be717-c305-47ea-b2a1-f1737f54b911.png",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
