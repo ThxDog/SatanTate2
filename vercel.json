@@ -22,7 +22,47 @@
       "use": "@vercel/static"
     },
     {
-      "src": "Project_files/image-c77f3025-35e3-499f-9e0e-5822f79b1f26.png",
+      "src": "Project_files/image-13d1426b-d442-4c5a-af1c-9daf219b232b.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-24e14858-2a21-475b-86d1-369eef5c342e_cX-0_cY-0_cW-124_cH-124.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-27f304c8-c9c9-4770-99e6-553ccca1a7e2_cX-0_cY-109_cW-1920_cH-425.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-2b602b96-fe49-4325-b613-9a2cd98f3db5.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-2b9fbe97-804b-45d5-b87c-f7088cab5458.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-3fb77f1a-69ad-4e3c-a61c-949a61f77425.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-3ff2fed5-8b19-48b8-9fe2-e219ae4f5f4f_cX-0_cY-606_cW-1920_cH-913.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-42ba51e7-2e86-4aae-8fc4-13c9d47bb333_cX-0_cY-0_cW-163_cH-163.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-5c2f6fbc-4ee8-4839-8913-451fc7257c90_cX-0_cY-0_cW-161_cH-161.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-727384fb-1373-4048-afa1-7bf47b7d18d4.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-7724eb98-dfe3-48e8-9d62-4705c645696f_cX-0_cY-1_cW-163_cH-163.png",
       "use": "@vercel/static"
     },
     {
@@ -34,27 +74,11 @@
       "use": "@vercel/static"
     },
     {
-      "src": "Project_files/image-3ff2fed5-8b19-48b8-9fe2-e219ae4f5f4f.png",
+      "src": "Project_files/image-c77f3025-35e3-499f-9e0e-5822f79b1f26_cX-21_cY-0_cW-149_cH-149.png",
       "use": "@vercel/static"
     },
     {
-      "src": "Project_files/image-f81219cf-fae6-4be9-ab95-8dc59bca9c5e.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "Project_files/image-13d1426b-d442-4c5a-af1c-9daf219b232b.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "Project_files/image-727384fb-1373-4048-afa1-7bf47b7d18d4.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "Project_files/image-5c2f6fbc-4ee8-4839-8913-451fc7257c90.png",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "Project_files/image-42ba51e7-2e86-4aae-8fc4-13c9d47bb333.png",
+      "src": "Project_files/image-ec5f6c6d-47e4-4268-a719-58a001a0835d.png",
       "use": "@vercel/static"
     }
   ],
