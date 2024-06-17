@@ -4,6 +4,58 @@
     {
       "src": "Project.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/config.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/custom_fonts.css",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/viewer.css",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/viewer.js",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-c77f3025-35e3-499f-9e0e-5822f79b1f26.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-a6fcd649-2616-40bd-86a3-7dbc00b00b63.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-afe737cb-5787-4f80-aa3a-bc5e7380eb66.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-3ff2fed5-8b19-48b8-9fe2-e219ae4f5f4f.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-f81219cf-fae6-4be9-ab95-8dc59bca9c5e.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-13d1426b-d442-4c5a-af1c-9daf219b232b.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-727384fb-1373-4048-afa1-7bf47b7d18d4.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-5c2f6fbc-4ee8-4839-8913-451fc7257c90.png",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "Project_files/image-42ba51e7-2e86-4aae-8fc4-13c9d47bb333.png",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
